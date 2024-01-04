@@ -1,0 +1,188 @@
+.Padding{
+    display: flex;
+    background-color: #1F2937;
+}
+
+.header{
+
+    margin: auto auto auto 120px;
+
+}
+
+.header p{
+
+        font-size: 24px;
+        color: #F9FAF8;
+}
+
+.link {
+
+    display: flex;
+    margin: auto 120px auto auto;
+
+}
+
+.link a{
+
+    text-decoration: none;
+    color: #F9FAF8;
+    padding: 10px;
+    text-align:center;
+}
+
+.top-text{
+
+    display: flex;
+    background-color: #1F2937
+
+}
+
+.text{
+
+    flex-basis: 600px;
+    display: flex;
+    flex-direction: column;
+    align: left;
+    margin: auto auto 10px 120px;
+}
+
+.up-text{
+    
+    height: 100px;
+    font-size: 48px;
+    font-weight: extra-bold;
+    color: #F9FAF8;
+
+}
+
+.sub-text{
+
+    font-size: 18px;
+    color: #E5E7EB
+    
+}
+
+.img{
+
+    margin: auto 120px auto auto;
+
+}
+
+.top-text .text button{
+
+    display: block;
+    text-align: center;
+    width: 100px;
+    border-radius: 20px;
+    border-color:white;
+    background: #3882f6;
+    padding: 10px;
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.second-section-title{
+
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+    color: #1F2937;
+
+}
+
+.second-section{
+   
+    margin-top: 100px;
+    display: flex; 
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.second-section p{
+
+    width: 200px
+
+}
+
+.second-section .img{
+
+    width: 200px;
+    height: 100px;
+
+}
+
+.quotation{
+
+    display: flex;
+    flex-direction: column;
+    background-color: #E5E7EB;
+    padding: 0 200px;
+
+}
+
+.quotation p{
+
+    font-size: 36px;
+    color: #1F2937;
+    font-style: italic;
+    font-weight: lighter;
+    font-family: 'Roboto', arial;
+
+}
+
+.quotation b{
+
+    padding-bottom: 20px;
+    padding-right: 10px;
+    font-family: 'Roboto', arial;
+    text-align: right;
+
+}
+
+.last{
+
+    display: flex;
+    background-color: #3882F6;
+    margin: 50px 200px;
+    padding: 10px 80px;
+    align-items: center;
+
+}
+
+.last .text{
+
+    display: flex;
+    flex-direction: column;
+
+}
+
+.last .text p{
+
+    text-align: left;
+
+}
+
+.last button{
+
+    display: block;
+    text-align: center;
+    width: 100px;
+    border-radius: 20px;
+    border-color:white;
+    background: #3882f6;
+    padding: 10px;
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.footer{
+
+    background-color: #1F2937;
+    color: #fff;
+    font-family: 'Roboto', arial;
+    text-align: center;
+    padding: 20px 0px 20px 0px;
+
+}
